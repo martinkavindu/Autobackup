@@ -1,0 +1,1 @@
+EXEC HEVAFUD 'C:\cft\'
